@@ -1,7 +1,7 @@
 # Hi, I am Maxim 👋
 
 ### About me:
-First of all, no I dont support Russians opinion about the ukrain war. I am totally against the war. Right now I try to convert my hobby to my job. I very interested in programming and so I started my journey round about 2016 with basic HTML and [Niki](https://de.wikipedia.org/wiki/Niki_%E2%80%93_der_Roboter). Yes I know HTML is not a real programming language. I continue my journey with some little minecraft plugins and afterwards with Unity games. Now I write some little programs for my self(like the mouseHolder for minecraft) and working on a game with 3 of my friends.
+First of all, no I dont support Russians opinion about the ukrain war. I am totally against the war. Right now I try to convert my hobby to my job. I am very interested in programming and so I started my journey round about 2016 with basic HTML and [Niki](https://de.wikipedia.org/wiki/Niki_%E2%80%93_der_Roboter). Yes I know HTML is not a real programming language. I continue my journey with some little minecraft plugins and afterwards with Unity games. Now I write some little programs for my self(like the mouseHolder for minecraft) and working on a game with 3 of my friends.
 
 ### Languages & Tools:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
