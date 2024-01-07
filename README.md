@@ -25,4 +25,4 @@ First of all, no I dont support Russians opinion about the ukrain war. I am tota
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ---
 
-![RussiaPlayer's GitHub stats](https://github-readme-stats.vercel.app/api?username=RussiaPlayer&show_icons=true&theme=dark&hide_border=true)
+![RussiaPlayer's GitHub stats](https://github-readme-stats.vercel.app/api?username=BiiigM&show_icons=true&theme=dark&hide_border=true)
