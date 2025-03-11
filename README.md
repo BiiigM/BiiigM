@@ -8,7 +8,7 @@ Right now I work:
 
 I also created the backend and deployment of the website: [https://ggkrotweiss.org/](https://ggkrotweiss.org/) which is plattform for dance groups.
 
-My Future is to get an Master degree
+My Future plans are to do a Master's degree
 
 ### Languages & Tools:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
